@@ -1,0 +1,1 @@
+This project contains the instructor's solution to Project `m01f`. The file `trends_save_orig.py` is the original Python program, and `trends_save.py` is the modified one. You can compare the two programs to see what changes were made. `my_tool.py` is a new Python program that combines the work of `trends_save.py` and `trends_plot.py` and cleans up after itself.
